@@ -187,14 +187,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="76H-qfFpWycDNLnL8DwZ" name="UI UX">
-    <mxGraphModel dx="1042" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RIeTTmFc9ihXIbGji9WR-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RIeTTmFc9ihXIbGji9WR-2" target="RIeTTmFc9ihXIbGji9WR-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bj3oXMivA2Ij2SmUNd6--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RIeTTmFc9ihXIbGji9WR-2" target="1Ot4v-Rj-TVH1LuAWmLg-1">
+        <mxCell id="Bj3oXMivA2Ij2SmUNd6--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RIeTTmFc9ihXIbGji9WR-2" target="Bj3oXMivA2Ij2SmUNd6--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIeTTmFc9ihXIbGji9WR-2" value="Lead Developer | UI/UX Support" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=#FF227A;strokeWidth=4;" vertex="1" parent="1">
@@ -203,28 +203,23 @@
         <mxCell id="RIeTTmFc9ihXIbGji9WR-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RIeTTmFc9ihXIbGji9WR-4" target="RIeTTmFc9ihXIbGji9WR-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RIeTTmFc9ihXIbGji9WR-4" value="QA Tester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=light-dark(#8EE845,#EDEDED);strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="985" y="710" width="30" height="60" as="geometry" />
+        <mxCell id="RIeTTmFc9ihXIbGji9WR-4" value="UX/UI Developer | Support Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=light-dark(#8EE845,#EDEDED);strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="720" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RIeTTmFc9ihXIbGji9WR-5" value="Team CoreX UIUX&#39;s Workflow" style="swimlane;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="305" y="510" width="640" height="940" as="geometry" />
+          <mxGeometry x="305" y="510" width="640" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="RIeTTmFc9ihXIbGji9WR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RIeTTmFc9ihXIbGji9WR-5" source="RIeTTmFc9ihXIbGji9WR-7" target="RIeTTmFc9ihXIbGji9WR-9">
+        <mxCell id="RIeTTmFc9ihXIbGji9WR-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RIeTTmFc9ihXIbGji9WR-5" source="RIeTTmFc9ihXIbGji9WR-7" target="RIeTTmFc9ihXIbGji9WR-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIeTTmFc9ihXIbGji9WR-7" value="Git clone if first time" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#8EE845,#8EE845);" vertex="1" parent="RIeTTmFc9ihXIbGji9WR-5">
-          <mxGeometry x="270" y="210" width="210" height="40" as="geometry" />
+          <mxGeometry x="320" y="210" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RIeTTmFc9ihXIbGji9WR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RIeTTmFc9ihXIbGji9WR-5" source="RIeTTmFc9ihXIbGji9WR-9" target="RIeTTmFc9ihXIbGji9WR-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="165" y="360" />
-              <mxPoint x="425" y="360" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RIeTTmFc9ihXIbGji9WR-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RIeTTmFc9ihXIbGji9WR-5" source="RIeTTmFc9ihXIbGji9WR-9" target="RIeTTmFc9ihXIbGji9WR-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIeTTmFc9ihXIbGji9WR-9" value="Git pull to get latest updates" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#8EE845,#8EE845);" vertex="1" parent="RIeTTmFc9ihXIbGji9WR-5">
-          <mxGeometry x="60" y="300" width="210" height="40" as="geometry" />
+          <mxGeometry x="45" y="210" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RIeTTmFc9ihXIbGji9WR-10" value="Assign ui ux issue in GitHub" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FF227A;" vertex="1" parent="RIeTTmFc9ihXIbGji9WR-5">
           <mxGeometry x="50" y="90" width="210" height="40" as="geometry" />
@@ -233,16 +228,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIeTTmFc9ihXIbGji9WR-12" value="Create a new branch" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#8EE845,#8EE845);" vertex="1" parent="RIeTTmFc9ihXIbGji9WR-5">
-          <mxGeometry x="320" y="380" width="210" height="40" as="geometry" />
+          <mxGeometry x="332.5" y="320" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bj3oXMivA2Ij2SmUNd6--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RIeTTmFc9ihXIbGji9WR-5" source="RIeTTmFc9ihXIbGji9WR-13" target="RIeTTmFc9ihXIbGji9WR-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIeTTmFc9ihXIbGji9WR-13" value="Work on issued feature" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#8EE845,#8EE845);" vertex="1" parent="RIeTTmFc9ihXIbGji9WR-5">
-          <mxGeometry x="50" y="440" width="210" height="40" as="geometry" />
+          <mxGeometry x="35" y="320" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RIeTTmFc9ihXIbGji9WR-14" value="work together with lead developer" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=light-dark(#8EE845,#8EE845);fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="RIeTTmFc9ihXIbGji9WR-5">
-          <mxGeometry x="365" y="440" width="145" height="110" as="geometry" />
+          <mxGeometry x="397.5" y="410" width="145" height="110" as="geometry" />
         </mxCell>
         <mxCell id="RIeTTmFc9ihXIbGji9WR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="RIeTTmFc9ihXIbGji9WR-5" source="RIeTTmFc9ihXIbGji9WR-16" target="RIeTTmFc9ihXIbGji9WR-7">
           <mxGeometry relative="1" as="geometry" />
@@ -251,16 +246,28 @@
           <mxGeometry x="305" y="100" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RIeTTmFc9ihXIbGji9WR-18" value="push the changes and pull request from lead developer" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#8EE845,#8EE845);" vertex="1" parent="RIeTTmFc9ihXIbGji9WR-5">
-          <mxGeometry x="20" y="550" width="320" height="50" as="geometry" />
+          <mxGeometry x="12.5" y="460" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RIeTTmFc9ihXIbGji9WR-21" value="" style="endArrow=none;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=filledEdge;dashed=1;" edge="1" parent="RIeTTmFc9ihXIbGji9WR-5" source="RIeTTmFc9ihXIbGji9WR-13" target="RIeTTmFc9ihXIbGji9WR-14">
+        <mxCell id="RIeTTmFc9ihXIbGji9WR-21" value="" style="endArrow=none;endFill=0;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=filledEdge;dashed=1;" edge="1" parent="RIeTTmFc9ihXIbGji9WR-5" source="RIeTTmFc9ihXIbGji9WR-13" target="RIeTTmFc9ihXIbGji9WR-14">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="280" y="420" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Ot4v-Rj-TVH1LuAWmLg-1" value="Assign test issue in GitHub" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FF227A;" vertex="1" parent="RIeTTmFc9ihXIbGji9WR-5">
-          <mxGeometry x="35" y="790" width="210" height="40" as="geometry" />
+          <mxGeometry x="355" y="570" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="__aSONw5f4ypbAhv9KiX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RIeTTmFc9ihXIbGji9WR-5" source="Bj3oXMivA2Ij2SmUNd6--3" target="1Ot4v-Rj-TVH1LuAWmLg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bj3oXMivA2Ij2SmUNd6--3" value="Merge changes" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FF227A;" vertex="1" parent="RIeTTmFc9ihXIbGji9WR-5">
+          <mxGeometry x="45" y="570" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="__aSONw5f4ypbAhv9KiX-1" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RIeTTmFc9ihXIbGji9WR-5" source="RIeTTmFc9ihXIbGji9WR-18" target="Bj3oXMivA2Ij2SmUNd6--3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="670" as="sourcePoint" />
+            <mxPoint x="85" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
